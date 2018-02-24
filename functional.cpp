@@ -14,3 +14,10 @@ void print_linked_list(node* head){
     }
     cout<<"[]"<<endl;
 }
+
+void print_array(vector<int>& v){
+    for (int i = 0; i<v.size(); i++){
+        cout<<v[i]<<" "<<endl;
+    }
+    cout<<endl;
+}
