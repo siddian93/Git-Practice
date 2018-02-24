@@ -12,6 +12,6 @@ int main(){
     struct node* head;
     cout<<"Dude";
     cout<<"Hello Dude"<<endl;
-    print_linked_list(head);
+    //print_linked_list(head);
     return 0;
 }
